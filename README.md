@@ -6,7 +6,7 @@ A small collections of scripts to add gradient effects to UGUI elements
 ```json
 {
   "dependencies": {
-    "com.coffee.navigator": "https://github.com/Zeterro/Unity-UIGradient.git#1.0.0"
+    "com.coffee.uigradients": "https://github.com/Zeterro/Unity-UIGradient.git#1.0.0"
   }
 }
 ```
