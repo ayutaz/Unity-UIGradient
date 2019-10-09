@@ -1,6 +1,18 @@
 # UI Gradient
 A small collections of scripts to add gradient effects to UGUI elements
 
+## Installation
+
+```json
+{
+  "dependencies": {
+    "com.coffee.navigator": "https://github.com/Zeterro/Unity-UIGradient.git#1.0.0"
+  }
+}
+```
+
+## Examples
+
 - UIGradient : A simple two-colors gradient
 ![screenshot UIGradient](https://azixmcaze.github.io/Unity-UIGradient/screenshot1.png)
 - UICornersGradient : A gradient with a color on each corner of the UI element
