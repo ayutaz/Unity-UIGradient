@@ -1,0 +1,7 @@
+{
+    "name": "com.coffee.uigradients",
+    "displayName": "UI Gradients",
+    "version": "1.0.0",
+    "unity": "2018.3",
+    "description": "A small collections of scripts to add gradient effects to UGUI elements."
+}
