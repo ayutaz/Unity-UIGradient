@@ -21,6 +21,11 @@ A small collections of scripts to add gradient effects to UGUI elements
 }
 ```
 
+## Install from UnityPackage
+
+1. download `UnityPackage` from [Release](https://github.com/ayutaz/Unity-UIGradient/releases)
+2. import the package
+
 ## Examples
 
 - UIGradient : A simple two-colors gradient
