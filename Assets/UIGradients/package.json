@@ -3,5 +3,9 @@
   "displayName": "UI Gradients" ,
   "version": "1.0.1" ,
   "unity": "2021.3" ,
-  "description": "A small collections of scripts to add gradient effects to UGUI elements."
+  "description": "A small collections of scripts to add gradient effects to UGUI elements." ,
+  "keywords": [
+    "Gradient" ,
+    "UI"
+  ]
 }
