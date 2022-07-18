@@ -2,12 +2,21 @@
 
 A small collections of scripts to add gradient effects to UGUI elements
 
-## Installation
+# Installation
+
+## Install from Package Manager
+
+1. Open Package Manager
+2. Add under the url at `Add Package from Git URL`
+
+`https://github.com/ayutaz/Unity-UIGradient.git?path=Assets/UIGradients`
+
+## Install from Package.json
 
 ```json
 {
   "dependencies": {
-    "com.ayuza.uigradients": "https://github.com/ayutaz/Unity-UIGradient.git#1.0.1"
+    "com.ayuza.uigradients": "https://github.com/ayutaz/Unity-UIGradient.git"
   }
 }
 ```

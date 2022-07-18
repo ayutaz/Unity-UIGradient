@@ -1,7 +1,7 @@
 {
   "name": "com.ayutaz.uigradients" ,
   "displayName": "UI Gradients" ,
-  "version": "1.0.1" ,
+  "version": "1.0.3" ,
   "unity": "2021.3" ,
   "description": "A small collections of scripts to add gradient effects to UGUI elements." ,
   "keywords": [
